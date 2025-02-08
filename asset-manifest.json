@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/restuding-react/static/css/main.f855e6bc.css",
-    "main.js": "/restuding-react/static/js/main.c5d16663.js",
+    "main.css": "/restuding-react/static/css/main.964fdded.css",
+    "main.js": "/restuding-react/static/js/main.2dde2a46.js",
     "static/js/488.e9df5525.chunk.js": "/restuding-react/static/js/488.e9df5525.chunk.js",
-    "static/media/logo.svg": "/restuding-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/restuding-react/index.html",
-    "main.f855e6bc.css.map": "/restuding-react/static/css/main.f855e6bc.css.map",
-    "main.c5d16663.js.map": "/restuding-react/static/js/main.c5d16663.js.map",
+    "main.964fdded.css.map": "/restuding-react/static/css/main.964fdded.css.map",
+    "main.2dde2a46.js.map": "/restuding-react/static/js/main.2dde2a46.js.map",
     "488.e9df5525.chunk.js.map": "/restuding-react/static/js/488.e9df5525.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.c5d16663.js"
+    "static/css/main.964fdded.css",
+    "static/js/main.2dde2a46.js"
   ]
 }
